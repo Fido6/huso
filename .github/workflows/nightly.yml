@@ -7,8 +7,6 @@ on:
       - "app/**"
       - "buildScript/**"
       - "buildScr/**"
-      - "libcore/**"
-      - "grade/**"
       - ".github/workflows/nightly.yml"
 
 jobs:
