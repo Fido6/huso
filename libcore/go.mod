@@ -89,4 +89,4 @@ require (
 	lukechampine.com/blake3 v1.4.1 // indirect
 )
 
-replace github.com/sagernet/sing-box => github.com/Pideo1/sing-box v0.0.0-20260428144741-b4beb6ed863a
+replace github.com/sagernet/sing-box => github.com/Pideo1/sing-box v0.0.0-20260428153019-95f4770fe090
